@@ -1,0 +1,19 @@
+{
+  "name": "gulp-private",
+  "version": "1.0.0",
+  "description": "gulp,private,configuration",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/iibrook/gulp-private.git"
+  },
+  "author": "chendongge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iibrook/gulp-private/issues"
+  },
+  "homepage": "https://github.com/iibrook/gulp-private#readme"
+}
